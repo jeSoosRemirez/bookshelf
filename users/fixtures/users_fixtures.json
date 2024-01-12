@@ -1,0 +1,62 @@
+[
+{
+  "model": "users.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$Qws6jO6PhNzv3VCY8fgNcy$PI8xJ4M6zB5iPyToCBK1J6cQY3Omkit8pH9fju+PjIc=",
+    "last_login": "2024-01-12T11:07:41.143Z",
+    "is_superuser": true,
+    "username": "admin",
+    "email": "admin@mail.com",
+    "is_active": true,
+    "is_staff": true,
+    "created_at": "2024-01-12T10:56:30.275Z",
+    "token_key": "",
+    "session_stats": {
+      "1": "0:00:11.577331"
+    },
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$o5UE2blqsLWP3mFEVb9KdA$poDqnf6bM3AaLZsygeCWY0AKSMm9O5Zz1++7ia94Kf0=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "test1",
+    "email": "test1@mail.com",
+    "is_active": true,
+    "is_staff": false,
+    "created_at": "2024-01-12T10:57:24.966Z",
+    "token_key": "",
+    "session_stats": {
+      "2": "0:00:26.063379"
+    },
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$5s1FteVM500a71tdSYasKv$8JVLoppY82w2ToTDNhJPaqN3D2+zI2mfL/z7TT6vBdA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "test2",
+    "email": "test2@mail.com",
+    "is_active": true,
+    "is_staff": false,
+    "created_at": "2024-01-12T11:17:37.291Z",
+    "token_key": "",
+    "session_stats": {
+      "2": "0:00:06.414502"
+    },
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
