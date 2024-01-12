@@ -1,0 +1,122 @@
+[
+{
+  "model": "user_sessions.usersession",
+  "pk": 1,
+  "fields": {
+    "user": 1,
+    "book": 1,
+    "session_start": "2024-01-12T10:58:54.916Z",
+    "session_end": "2024-01-12T10:59:06.960Z"
+  }
+},
+{
+  "model": "user_sessions.usersession",
+  "pk": 2,
+  "fields": {
+    "user": 1,
+    "book": 1,
+    "session_start": "2024-01-12T10:59:06.967Z",
+    "session_end": "2024-01-12T10:59:19.211Z"
+  }
+},
+{
+  "model": "user_sessions.usersession",
+  "pk": 3,
+  "fields": {
+    "user": 1,
+    "book": 1,
+    "session_start": "2024-01-12T10:59:19.216Z",
+    "session_end": "2024-01-12T10:59:30.793Z"
+  }
+},
+{
+  "model": "user_sessions.usersession",
+  "pk": 4,
+  "fields": {
+    "user": 2,
+    "book": 1,
+    "session_start": "2024-01-12T11:01:44.677Z",
+    "session_end": "2024-01-12T11:02:24.905Z"
+  }
+},
+{
+  "model": "user_sessions.usersession",
+  "pk": 5,
+  "fields": {
+    "user": 2,
+    "book": 2,
+    "session_start": "2024-01-12T11:02:57.389Z",
+    "session_end": "2024-01-12T11:03:09.585Z"
+  }
+},
+{
+  "model": "user_sessions.usersession",
+  "pk": 6,
+  "fields": {
+    "user": 2,
+    "book": 2,
+    "session_start": "2024-01-12T11:03:09.589Z",
+    "session_end": "2024-01-12T11:03:17.627Z"
+  }
+},
+{
+  "model": "user_sessions.usersession",
+  "pk": 7,
+  "fields": {
+    "user": 2,
+    "book": 2,
+    "session_start": "2024-01-12T11:03:17.631Z",
+    "session_end": "2024-01-12T11:03:24.064Z"
+  }
+},
+{
+  "model": "user_sessions.usersession",
+  "pk": 8,
+  "fields": {
+    "user": 2,
+    "book": 2,
+    "session_start": "2024-01-12T11:03:24.069Z",
+    "session_end": "2024-01-12T11:03:32.581Z"
+  }
+},
+{
+  "model": "user_sessions.usersession",
+  "pk": 9,
+  "fields": {
+    "user": 2,
+    "book": 1,
+    "session_start": "2024-01-12T11:03:52.957Z",
+    "session_end": "2024-01-12T11:04:02.594Z"
+  }
+},
+{
+  "model": "user_sessions.usersession",
+  "pk": 10,
+  "fields": {
+    "user": 2,
+    "book": 1,
+    "session_start": "2024-01-12T11:04:39.444Z",
+    "session_end": "2024-01-12T11:04:46.122Z"
+  }
+},
+{
+  "model": "user_sessions.usersession",
+  "pk": 11,
+  "fields": {
+    "user": 2,
+    "book": 2,
+    "session_start": "2024-01-12T11:04:46.126Z",
+    "session_end": "2024-01-12T11:05:12.189Z"
+  }
+},
+{
+  "model": "user_sessions.usersession",
+  "pk": 12,
+  "fields": {
+    "user": 3,
+    "book": 2,
+    "session_start": "2024-01-12T11:18:25.111Z",
+    "session_end": "2024-01-12T11:18:31.525Z"
+  }
+}
+]
