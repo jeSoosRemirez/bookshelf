@@ -1,0 +1,28 @@
+[
+{
+  "model": "books.book",
+  "pk": 1,
+  "fields": {
+    "author": "Andrzej Sapkowski",
+    "name": "Ostatnie życzenie",
+    "publish_year": 1993,
+    "full_description": "Popularny stał się cytat z opowiadania Mniejsze zło w rozmowie między Stregoborem a Geraltem: 'Zło to zło, Stregoborze - rzekł poważnie wiedźmin, wstając. - Mniejsze, większe, średnie, wszystko jedno, proporcje są umowne a granice zatarte. Nie jestem świątobliwym pustelnikiem, nie samo dobro czyniłem w życiu. A jeżeli mam wybierać pomiędzy jednym złem, a drugim, to wolę nie wybierać wcale.",
+    "short_description": "Ostatnie życzenie – zbiór opowiadań fantasy z 1993 roku, napisanych przez Andrzeja Sapkowskiego i stanowiących wstęp do cyklu o wiedźminie Geralcie.",
+    "created_time": "2024-01-12T10:58:19.441Z",
+    "readers": []
+  }
+},
+{
+  "model": "books.book",
+  "pk": 2,
+  "fields": {
+    "author": "Andrzej Sapkowski",
+    "name": "Pani Jeziora",
+    "publish_year": 1999,
+    "full_description": "Ciri dostaje się do władanego przez Auberona królestwa Aen Elle – Ludu Olch, po którym jej przewodnikiem staje się elf Avallac'h. Wiedźmińska drużyna opuszcza Caed Myrkvid, gdyż bytujący tam druidzi odmawiają im pomocy. Kompania dociera do idyllicznego księstwa Toussaint...",
+    "short_description": "Pani Jeziora – powieść z gatunku fantasy, napisana przez Andrzeja Sapkowskiego, wydana w 1999. Jest ostatnią z pięciu części sagi o wiedźminie.",
+    "created_time": "2024-01-12T10:58:28.259Z",
+    "readers": []
+  }
+}
+]
